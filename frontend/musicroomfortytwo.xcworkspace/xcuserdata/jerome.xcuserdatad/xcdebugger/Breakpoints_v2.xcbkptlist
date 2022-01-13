@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "FB9BA895-2609-4B80-997C-F12BDAA19A85"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5459EC05-F8DD-436A-A2CE-D86AC0A906D1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "musicroomfortytwo/View/Search/SearchTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "SearchTableViewCell"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F5635AA5-A848-4A03-848F-9AB14E0DC9DC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "musicroomfortytwo/Controller/Player/ControlDelegationViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "148"
+            endingLineNumber = "148"
+            landmarkName = "controlDelegationFriendsTableViewCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "F5635AA5-A848-4A03-848F-9AB14E0DC9DC - f5f8b25bad8dc8c0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "musicroomfortytwo.controlDelegationFriendsTableViewCell.lblPseudo.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "musicroomfortytwo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerome/Desktop/MusicRoomFrontEnd/MusicRoom/musicroomfortytwo/Controller/Player/ControlDelegationViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "125"
+                  endingLineNumber = "125"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "F5635AA5-A848-4A03-848F-9AB14E0DC9DC - 39b9d229d5f24bdc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "musicroomfortytwo.controlDelegationFriendsTableViewCell.lblPseudo.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "musicroomfortytwo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerome/Desktop/MusicRoomFrontEnd/MusicRoom/musicroomfortytwo/Controller/Player/ControlDelegationViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "125"
+                  endingLineNumber = "125"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "F5635AA5-A848-4A03-848F-9AB14E0DC9DC - 117ef3b7ae51f4bd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "musicroomfortytwo.controlDelegationFriendsTableViewCell.lblPseudo.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "musicroomfortytwo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerome/Desktop/MusicRoomFrontEnd/MusicRoom/musicroomfortytwo/Controller/Player/ControlDelegationViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "59">
+               </Location>
+               <Location
+                  uuid = "F5635AA5-A848-4A03-848F-9AB14E0DC9DC - a231d09106d83389"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "musicroomfortytwo.controlDelegationFriendsTableViewCell.lblPseudo.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "musicroomfortytwo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerome/Desktop/MusicRoomFrontEnd/MusicRoom/musicroomfortytwo/Controller/Player/ControlDelegationViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "125"
+                  endingLineNumber = "125"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "F5635AA5-A848-4A03-848F-9AB14E0DC9DC - 6356cf3d3a023edf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "musicroomfortytwo.controlDelegationFriendsTableViewCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; musicroomfortytwo.controlDelegationFriendsTableViewCell"
+                  moduleName = "musicroomfortytwo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerome/Desktop/MusicRoomFrontEnd/MusicRoom/musicroomfortytwo/Controller/Player/ControlDelegationViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "125"
+                  endingLineNumber = "125"
+                  offsetFromSymbolStart = "228">
+               </Location>
+               <Location
+                  uuid = "F5635AA5-A848-4A03-848F-9AB14E0DC9DC - 1f602fb612b66ad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "musicroomfortytwo.controlDelegationFriendsTableViewCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;musicroomfortytwo.controlDelegationFriendsTableViewCell&gt;"
+                  moduleName = "musicroomfortytwo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerome/Desktop/MusicRoomFrontEnd/MusicRoom/musicroomfortytwo/Controller/Player/ControlDelegationViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "125"
+                  endingLineNumber = "125"
+                  offsetFromSymbolStart = "148">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B13EF343-5C9D-4ABF-B7E8-4802A16F801D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "musicroomfortytwo/View/SelectEventViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "121"
+            endingLineNumber = "121"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

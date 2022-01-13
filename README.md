@@ -1,2 +1,2 @@
 # MusicRoom
-IOS application spotify's like
+Music room project - 42
